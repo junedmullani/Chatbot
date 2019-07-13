@@ -1,0 +1,31 @@
+<aiml><category><pattern>TARGET BOTSTART</pattern><template>This is the greeting of a GaitoBot conversation.</template></category>
+<category><pattern>COLLEGE</pattern><template>SITCOE</template></category>
+<category><pattern>WHO IS THE HOD OF CSE DEPARTMENT</pattern><template>MR.Vyenktesh Shankar Sir</template></category>
+<category><pattern>WHO IS THE NEXT HOD OF CSE DEPARTMENT</pattern><template>MR.B.J.Gorad Sir</template></category>
+<category><pattern>WHO IS THE PROCTOR OF T3 BATCH</pattern><template>MRs.Shruti Naik mam</template></category>
+<category><pattern>WHO IS THE PROJECT INCHARGE</pattern><template>MRS.M.N.Jadhav mam</template></category>
+<category><pattern>WHO IS THE PROJECT Guide</pattern><template>MRS.V.B.Sutar mam</template></category>
+<category><pattern>LIST FACULTY MEMBERS OF CSE DEPARTMENT</pattern><template><br/>Mr. Venkatesh Shankar   HOD 
+Mr. B. J. Gorad    Assistant Professor and Academic Incharge<br/>
+Dr. A V Turukmane  Associate Professor<br/>
+Mrs. Madhuri Jadhav Assistant Professor<br/>
+Ms.Shweta Kambare Assistant Professor<br/>
+Mr. U. M. Mulani  Assistant Professor<br/>
+Mr. Atul Anilkumar Kumbhar  Assistant Professor<br/>
+Mr. N P Jadhav   Assistant Professor<br/>   
+Mr. Mubarak Dastageer Jamadar  Assistant Professor<br/>   
+Ms.Supriya sampat Tambire  Assistant Professor<br/>   
+Mrs. Jujare Varsha Anup  Assistant Professor<br/>   
+Ms.Vanchala Bhagwat Sutar  Assistant Professor<br/>   
+Ms. Naik Shruti Prashant  Assistant Professor<br/>   
+Ms. Hankare Priyanka Prakash  Assistant Professor<br/>   
+</template></category>
+<category><pattern>WHO IS THE CLASS TEACHER OF TE CLASS</pattern><template>Mr.U.M.Mulani sir</template></category>
+<category><pattern>WHAT IS YOUR COLLEGE NAME</pattern><template>SITCOE</template></category>
+<category><pattern>WHO IS YOUR CRUSH</pattern><template>gap zop ki ata.kashala aathvan kadtos..(()) </template></category>
+
+<category><pattern>WHAT IS CURRENT</pattern><template>flow of electrons</template></category>
+
+
+
+</aiml>
